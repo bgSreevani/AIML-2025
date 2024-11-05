@@ -8,4 +8,4 @@ lab - 05     https://github.com/bgSreevani/AIML-2025/blob/main/AIML%2005.ipynb
 lab - 06     https://github.com/bgSreevani/AIML-2025/blob/main/AIML_lab_6.ipynb
 lab - 07     https://github.com/bgSreevani/AIML-2025/blob/main/Copy_of_AIML_LAB_07.ipynb
 lab - 08     https://github.com/bgSreevani/AIML-2025/blob/main/AIML_ASS_08.ipynb
-     
+lab - 09     https://github.com/bgSreevani/AIML-2025/blob/8e6366c148b570bb5b830ecb833c0f907926aa10/LAB_9.ipynb    
